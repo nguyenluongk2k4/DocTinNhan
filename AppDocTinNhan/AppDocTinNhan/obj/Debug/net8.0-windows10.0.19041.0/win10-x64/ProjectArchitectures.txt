@@ -1,0 +1,1 @@
+F:\C#\AppDocTinNhan\DocTinNhan\AppDocTinNhan\AppDocTinNhan\AppDocTinNhan.csproj;x64
